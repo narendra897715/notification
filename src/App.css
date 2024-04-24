@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.section {
+  border: 1px solid black;
+  border-radius: 25px;
+  padding: 10px;
+}
+
+.song-description {
+  color: gray;
+  font-size: 15px;
+}
